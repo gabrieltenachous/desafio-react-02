@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielofsousa/" rel="nofollow">
-    <img alt="Made by gabrieloliveira" src="https://camo.githubusercontent.com/c5d82b824e8a766c3b7bdc49c546c49e7359754bef2828f1dfb1d5874d12ad6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d4d61646525323062792532306672616e6b6c61657263696f2d626c7565" style="max-width: 100%;">
+    <img alt="Made by gabrieloliveira" src="https://img.shields.io/badge/Linkedin-Made%20by%20gabrieloliveira-blue" style="max-width: 100%;">
   </a>
   <a href="https://camo.githubusercontent.com/c24eb4c88037a54d6aba1ed99cf286974759256926c340282a5b8e835337671a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f756e742f6672616e6b6c61657263696f2f77617463686d653f636f6c6f723d253233303444333631" rel="nofollow"><img alt="GitHub language count" src="https://camo.githubusercontent.com/c24eb4c88037a54d6aba1ed99cf286974759256926c340282a5b8e835337671a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f756e742f6672616e6b6c61657263696f2f77617463686d653f636f6c6f723d253233303444333631" style="max-width: 100%;"></a> 
    <a href="https://github.com/franklaercio/watchme/stargazers">
